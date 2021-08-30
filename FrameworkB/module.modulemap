@@ -1,0 +1,4 @@
+module LibA {
+    header "LibA.h"
+    export *
+}
